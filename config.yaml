@@ -1,0 +1,10 @@
+data:
+  dataset_name: "mnist_784"
+  test_size: 0.2
+  random_state: 42
+  local_path: "mnist_data.pkl"
+
+model:
+  n_estimators: 100
+  max_depth: 20
+  n_jobs: -1 # Use all CPU cores
