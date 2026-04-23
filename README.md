@@ -35,7 +35,7 @@ Run the Python scripts to train the models and log data to the server:
 python experiment_flat.py
 python experiment_nested.py
 ```
-To change model parameters, edit the config.yaml file.
+To change model parameters, edit the `config.yaml file`.
 
 ## Access the UI
 Open your browser and navigate to http://127.0.0.1:5000 to visualize the results, compare runs, and download artifacts.
